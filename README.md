@@ -34,12 +34,7 @@ The project goals are listed overleaf; 1-to-3 will be done over the first phase,
 
 # Phase I
 1. Data pipeline for scraping social media;
-2. Data set representative of Children & Young Adult Women aged 10-24, living in London.
-
-        a. Topic Modelling:
-            i.eating disorders
-            ii. and Self Harm Injury
-            
+2. Data set representative of Children & Young Adult Women aged 10-24, living in London.            
 3. Sentiment Analysis 
 
 # Phase II 
